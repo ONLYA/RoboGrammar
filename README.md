@@ -13,6 +13,11 @@ Commands were tested on Ubuntu 18.04.
 [CMake](https://cmake.org/download/) >= 3.8
 * Check with `cmake --version`
 
+Build-essential & other libraries
+```
+sudo apt-get install build-essential libxrandr-dev libxinerama-dev libxcursor xorg-dev
+```
+
 GLEW
 * `sudo apt-get install libglew-dev`
 
